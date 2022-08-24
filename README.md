@@ -1,16 +1,18 @@
 dragonxlibx is an experimental library
+------------------------------
+
+To download the library :-
+
+import os
+
+os.system('pip install dragonxlibx')
+
+------------------------------
 
 Example of a library :-
 
-try:
-
-    import dragonxlibx
-except:
-
-    import os
-    os.system('pip install dragonxlibx')
-
 from dragonxlibx import *
 
-plus=dragon(4 , 5)
+plus=dragoon(4 , 5)
+
 print(plus)
