@@ -5,7 +5,7 @@ To download the library :-
 
 import os
 
-os.system('pip install dragonxlibx')
+os.system("pip install dragonxlibx")
 
 ------------------------------
 
